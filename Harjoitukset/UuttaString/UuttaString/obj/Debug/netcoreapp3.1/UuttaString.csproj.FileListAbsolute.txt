@@ -1,0 +1,13 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.exe
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.deps.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.runtimeconfig.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.runtimeconfig.dev.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\bin\Debug\netcoreapp3.1\UuttaString.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.AssemblyInfo.cs
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.genruntimeconfig.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\UuttaString\UuttaString\obj\Debug\netcoreapp3.1\UuttaString.csprojAssemblyReference.cache
