@@ -1,0 +1,13 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.csprojAssemblyReference.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.AssemblyInfo.cs
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.exe
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.deps.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.runtimeconfig.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.runtimeconfig.dev.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.genruntimeconfig.cache

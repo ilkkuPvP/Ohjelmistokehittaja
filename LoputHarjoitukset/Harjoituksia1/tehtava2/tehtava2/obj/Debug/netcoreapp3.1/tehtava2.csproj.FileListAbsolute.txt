@@ -1,0 +1,4 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava2\tehtava2\obj\Debug\netcoreapp3.1\tehtava2.csprojAssemblyReference.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava2\tehtava2\obj\Debug\netcoreapp3.1\tehtava2.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava2\tehtava2\obj\Debug\netcoreapp3.1\tehtava2.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia1\tehtava2\tehtava2\obj\Debug\netcoreapp3.1\tehtava2.AssemblyInfo.cs
