@@ -1,0 +1,14 @@
+            //Kysyy haluatko aloittaa ja yrittää uudestaan
+            Console.WriteLine("-----");
+            Console.WriteLine("Haluatko kokeilla uudestaan? (Kyllä vai Ei)");
+            if (Console.ReadLine() == "Kyllä")
+            {
+                Console.WriteLine("-----");
+                Main();
+            }
+
+            else
+            {
+                Console.WriteLine("-----");
+                Console.WriteLine("Hei hei sitten!");
+            }
