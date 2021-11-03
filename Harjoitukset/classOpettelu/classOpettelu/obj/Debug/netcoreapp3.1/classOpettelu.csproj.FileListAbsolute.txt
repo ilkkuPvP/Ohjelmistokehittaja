@@ -1,0 +1,13 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.exe
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.deps.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.runtimeconfig.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.runtimeconfig.dev.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\bin\Debug\netcoreapp3.1\classOpettelu.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.csprojAssemblyReference.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.AssemblyInfo.cs
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\Harjoitukset\classOpettelu\classOpettelu\obj\Debug\netcoreapp3.1\classOpettelu.genruntimeconfig.cache

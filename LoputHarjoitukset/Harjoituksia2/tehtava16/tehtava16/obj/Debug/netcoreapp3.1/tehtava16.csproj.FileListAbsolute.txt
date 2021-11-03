@@ -1,0 +1,13 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.exe
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.deps.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.runtimeconfig.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.runtimeconfig.dev.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\bin\Debug\netcoreapp3.1\tehtava16.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.csprojAssemblyReference.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.AssemblyInfo.cs
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava16\tehtava16\obj\Debug\netcoreapp3.1\tehtava16.genruntimeconfig.cache

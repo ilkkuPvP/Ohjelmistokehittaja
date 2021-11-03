@@ -1,0 +1,12 @@
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.csproj.CoreCompileInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfoInputs.cache
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfo.cs
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.exe
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.deps.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.dev.json
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.dll
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.pdb
+C:\Users\ilmari.lindberg\source\repot\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.genruntimeconfig.cache
