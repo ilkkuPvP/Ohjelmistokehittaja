@@ -1,0 +1,11 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\obj\Debug\netcoreapp3.1\tehtava17.csprojAssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\obj\Debug\netcoreapp3.1\tehtava17.AssemblyInfoInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\obj\Debug\netcoreapp3.1\tehtava17.AssemblyInfo.cs
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.deps.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.runtimeconfig.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.runtimeconfig.dev.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\bin\Debug\netcoreapp3.1\tehtava17.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\obj\Debug\netcoreapp3.1\tehtava17.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava17\tehtava17\obj\Debug\netcoreapp3.1\tehtava17.pdb

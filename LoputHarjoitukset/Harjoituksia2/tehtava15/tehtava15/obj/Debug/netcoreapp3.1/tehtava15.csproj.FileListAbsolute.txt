@@ -1,0 +1,10 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.deps.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.runtimeconfig.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.runtimeconfig.dev.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\bin\Debug\netcoreapp3.1\tehtava15.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\obj\Debug\netcoreapp3.1\tehtava15.AssemblyInfoInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\obj\Debug\netcoreapp3.1\tehtava15.AssemblyInfo.cs
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\obj\Debug\netcoreapp3.1\tehtava15.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava15\tehtava15\obj\Debug\netcoreapp3.1\tehtava15.pdb

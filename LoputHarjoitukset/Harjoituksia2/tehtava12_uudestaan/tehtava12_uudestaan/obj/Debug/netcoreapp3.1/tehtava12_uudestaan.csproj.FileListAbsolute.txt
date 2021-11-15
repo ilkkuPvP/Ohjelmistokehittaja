@@ -1,0 +1,11 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.deps.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.runtimeconfig.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.runtimeconfig.dev.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\bin\Debug\netcoreapp3.1\tehtava12_uudestaan.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\obj\Debug\netcoreapp3.1\tehtava12_uudestaan.csprojAssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\obj\Debug\netcoreapp3.1\tehtava12_uudestaan.AssemblyInfoInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\obj\Debug\netcoreapp3.1\tehtava12_uudestaan.AssemblyInfo.cs
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\obj\Debug\netcoreapp3.1\tehtava12_uudestaan.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava12_uudestaan\tehtava12_uudestaan\obj\Debug\netcoreapp3.1\tehtava12_uudestaan.pdb

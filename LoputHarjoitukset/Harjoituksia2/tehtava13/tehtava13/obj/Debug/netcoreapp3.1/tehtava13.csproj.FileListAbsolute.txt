@@ -1,0 +1,11 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\obj\Debug\netcoreapp3.1\tehtava13.csprojAssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\obj\Debug\netcoreapp3.1\tehtava13.AssemblyInfoInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\obj\Debug\netcoreapp3.1\tehtava13.AssemblyInfo.cs
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.deps.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.runtimeconfig.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.runtimeconfig.dev.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\bin\Debug\netcoreapp3.1\tehtava13.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\obj\Debug\netcoreapp3.1\tehtava13.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\LoputHarjoitukset\Harjoituksia2\tehtava13\tehtava13\obj\Debug\netcoreapp3.1\tehtava13.pdb
