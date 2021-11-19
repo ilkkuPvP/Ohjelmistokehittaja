@@ -1,0 +1,10 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\bin\Debug\TESTIS.exe.config
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\bin\Debug\TESTIS.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\bin\Debug\TESTIS.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.csproj.AssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.Form1.resources
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.Properties.Resources.resources
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.csproj.GenerateResource.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.csproj.CoreCompileInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TESTIS\TESTIS\obj\Debug\TESTIS.pdb

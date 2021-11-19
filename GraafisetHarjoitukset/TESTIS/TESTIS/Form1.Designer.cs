@@ -33,9 +33,10 @@
             // 
             // ButtonBT
             // 
-            this.ButtonBT.Location = new System.Drawing.Point(317, 204);
+            this.ButtonBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ButtonBT.Location = new System.Drawing.Point(279, 157);
             this.ButtonBT.Name = "ButtonBT";
-            this.ButtonBT.Size = new System.Drawing.Size(157, 76);
+            this.ButtonBT.Size = new System.Drawing.Size(202, 103);
             this.ButtonBT.TabIndex = 0;
             this.ButtonBT.Text = "ÄLÄ PAINA >:(";
             this.ButtonBT.UseVisualStyleBackColor = true;

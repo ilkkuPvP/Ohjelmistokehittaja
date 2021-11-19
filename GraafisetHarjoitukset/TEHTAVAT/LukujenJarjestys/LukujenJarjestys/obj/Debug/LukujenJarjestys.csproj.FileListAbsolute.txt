@@ -1,0 +1,5 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TEHTAVAT\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TEHTAVAT\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TEHTAVAT\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TEHTAVAT\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\GraafisetHarjoitukset\TEHTAVAT\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
