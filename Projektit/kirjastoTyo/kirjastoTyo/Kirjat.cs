@@ -6,6 +6,13 @@ namespace kirjastoTyo
 {
     public class Kirjat
     {
-        public string kNimi, kTekija, kPituus, kTunnus;
+        /*
+        public Kirjat(string kNimi, string kTekija, string kPituus, string kTunnus, string kLainattu)
+        {
+
+        }
+        */
+
+        public string kNimi, kTekija, kPituus, kTunnus, kLainattu;
     }
 }

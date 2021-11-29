@@ -1,0 +1,7 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\bin\Debug\kirjastoProjekti.exe.config
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\bin\Debug\kirjastoProjekti.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\bin\Debug\kirjastoProjekti.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\obj\Debug\kirjastoProjekti.csproj.AssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\obj\Debug\kirjastoProjekti.csproj.CoreCompileInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\obj\Debug\kirjastoProjekti.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoProjekti\kirjastoProjekti\obj\Debug\kirjastoProjekti.pdb

@@ -8,14 +8,23 @@ namespace kirjastoTyo
     {
 
 
-        
+        public string Selaa()
+        {
+
+
+
+
+            return "";
+        }
         public string Lainaa(string lainattava)
         {
+            //Kirjojen teko
             Kirjat kirja1 = new Kirjat();
             kirja1.kNimi = "Pekka Puukasa ja Joulupuu";
             kirja1.kTekija = "Pekka Luukasa";
             kirja1.kPituus = "86";
             kirja1.kTunnus = "1";
+            //kirja1.kLainattu = "Ei";
             string k1Tunnus = kirja1.kTunnus;
 
             Kirjat kirja2 = new Kirjat();
@@ -23,6 +32,7 @@ namespace kirjastoTyo
             kirja2.kTekija = "Ilmari Lindberg";
             kirja2.kPituus = "193";
             kirja2.kTunnus = "2";
+            //kirja2.kLainattu = "Ei";
             string k2Tunnus = kirja2.kTunnus;
 
             Kirjat kirja3 = new Kirjat();
@@ -30,6 +40,7 @@ namespace kirjastoTyo
             kirja3.kTekija = "Timon kaveri";
             kirja3.kPituus = "265";
             kirja3.kTunnus = "3";
+            //kirja3.kLainattu = "Ei";
             string k3Tunnus = kirja3.kTunnus;
 
             Kirjat kirja666 = new Kirjat();
@@ -37,10 +48,14 @@ namespace kirjastoTyo
             kirja666.kTekija = "[#/&}!?{&]";
             kirja666.kPituus = "666";
             kirja666.kTunnus = "666";
+            //kirja666.kLainattu = "Ei";
             string k666Tunnus = kirja666.kTunnus;
 
-            if(lainattava == k1Tunnus)
+            if (lainattava == k1Tunnus && kirja1.kLainattu == "Ei")
             {
+                kirja1.kLainattu = "Kyllä";
+
+                /*
                 Console.Clear();
                 Console.WriteLine("-----");
                 Console.WriteLine("Kirja: " + kirja2.kNimi);
@@ -59,7 +74,10 @@ namespace kirjastoTyo
                 Console.WriteLine("Tunnus: " + kirja666.kTunnus);
                 Console.WriteLine("-----");
                 Console.WriteLine("");
+                */
             }
+            
+
             return lainattava;
 
         }

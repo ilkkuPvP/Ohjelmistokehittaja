@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilmari.lindberg\\source\\repot\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj": {}
+    "C:\\Users\\IlkkuPvP\\Desktop\\Koulu ja Partio\\Amis\\Ohjelmointi\\CSharp\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilmari.lindberg\\source\\repot\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj": {
+    "C:\\Users\\IlkkuPvP\\Desktop\\Koulu ja Partio\\Amis\\Ohjelmointi\\CSharp\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilmari.lindberg\\source\\repot\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj",
+        "projectUniqueName": "C:\\Users\\IlkkuPvP\\Desktop\\Koulu ja Partio\\Amis\\Ohjelmointi\\CSharp\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj",
         "projectName": "classOpettelu",
-        "projectPath": "C:\\Users\\ilmari.lindberg\\source\\repot\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj",
-        "packagesPath": "C:\\Users\\ilmari.lindberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilmari.lindberg\\source\\repot\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\obj\\",
+        "projectPath": "C:\\Users\\IlkkuPvP\\Desktop\\Koulu ja Partio\\Amis\\Ohjelmointi\\CSharp\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\classOpettelu.csproj",
+        "packagesPath": "C:\\Users\\IlkkuPvP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IlkkuPvP\\Desktop\\Koulu ja Partio\\Amis\\Ohjelmointi\\CSharp\\Ohjelmistokehittaja\\Harjoitukset\\classOpettelu\\classOpettelu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "E:\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ilmari.lindberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\IlkkuPvP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

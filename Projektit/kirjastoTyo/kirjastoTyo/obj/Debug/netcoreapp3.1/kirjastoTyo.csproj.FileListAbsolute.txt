@@ -1,0 +1,14 @@
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.exe
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.deps.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.runtimeconfig.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.runtimeconfig.dev.json
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\bin\Debug\netcoreapp3.1\kirjastoTyo.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.csproj.AssemblyReference.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.AssemblyInfoInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.AssemblyInfo.cs
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.csproj.CoreCompileInputs.cache
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.dll
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.pdb
+C:\Users\IlkkuPvP\Desktop\Koulu ja Partio\Amis\Ohjelmointi\CSharp\Ohjelmistokehittaja\Projektit\kirjastoTyo\kirjastoTyo\obj\Debug\netcoreapp3.1\kirjastoTyo.genruntimeconfig.cache
