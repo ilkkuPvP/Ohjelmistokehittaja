@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graafinenTeht7", "graafinenTeht7\graafinenTeht7.csproj", "{4A77A134-5AA5-4778-8C8F-BCB3C5D5A967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A77A134-5AA5-4778-8C8F-BCB3C5D5A967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A77A134-5AA5-4778-8C8F-BCB3C5D5A967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A77A134-5AA5-4778-8C8F-BCB3C5D5A967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A77A134-5AA5-4778-8C8F-BCB3C5D5A967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE45E24-5264-4F49-9BD7-DBF801AFA5FC}
+	EndGlobalSection
+EndGlobal
